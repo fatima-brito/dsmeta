@@ -21,3 +21,15 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+.dsmeta-container{
+    background: #283142;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px 10px;
+}
+
+#sales{
+    padding: 40px 10px;
+}
